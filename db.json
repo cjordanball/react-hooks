@@ -2,34 +2,28 @@
   "dogs": {
     "good": [
       {
-        "maestro": {
-          "name": "Maestro",
-          "breed": "Cairn",
-          "isGoodDog": true,
-          "BirthYear": 2013,
-          "sex": "Male",
-          "voice": "yip"
-        }
+        "name": "Maestro",
+        "breed": "Cairn",
+        "isGoodDog": true,
+        "BirthYear": 2013,
+        "sex": "Male",
+        "voice": "yip"
       },
       {
-        "fido": {
           "name": "Fido",
           "breed": "mixed",
           "isGoodDog": true,
           "BirthYear": 2017,
           "sex": "Female",
           "voice": "Ruff"
-        }
       },
       {
-        "lemon": {
           "name": "Lemon",
           "breed": "English Bulldog",
           "isGoodDog": true,
           "BirthYear": 1993,
           "sex": "Female",
           "voice": "Grrrrr"
-        }
       }
     ],
     "bad": []
